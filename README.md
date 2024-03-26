@@ -1,6 +1,6 @@
 # Título del Proyecto
-Text Encrypt
-Esta es una aplicación que encripta textos, así podrás intercambiar mensajes secretos con otras personas que sepan el secreto de la encriptación utilizada.
+Text Encrypt. 
+"Esta es una aplicación que encripta textos, así podrás intercambiar mensajes secretos con otras personas que sepan el secreto de la encriptación utilizada".
 
 ## Comenzando 🚀
 Abrir el archivo index.html con un navegador
