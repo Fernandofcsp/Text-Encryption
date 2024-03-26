@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Encriptador de texto</title>
+    <link rel="icon" type="image/png" href="public/assets/icons/lock2.png">
     <link rel="stylesheet" href="styles.css">
     <script src="./index.js" defer></script>
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
@@ -14,7 +15,6 @@
           <img src="public/assets/icons/github.png" class="logogit">
         </a>
         <span>Encriptador de texto con Javascript</span>
-
     </header>
 
     <main>
@@ -24,14 +24,13 @@
             <textarea
               id="input"
               placeholder="Ingrese el texto"
-              style="font-size: 25px; text-align: center"
+              
             ></textarea>
           </div>
           <div class="column" id="right-column">
             <textarea
               id="output"
               placeholder="Ningún texto ha sido Cifrado/Descifrado"
-              style="font-size: 25px; text-align: center"
               disabled
             ></textarea>
           </div>
@@ -43,14 +42,11 @@
           </div>
           <div class="button-column center-buttons">
             <button onclick="borrar()">Borrar<img src="./public/assets/icons/borrar.png" class="button-icons"></button>
-            
           </div>
           <div class="button-column right-buttons">
             <button onclick="mover()">Mover<img src="./public/assets/icons/back.png" class="button-icons"></button>
             <button onclick="copiar()">Copiar<img src="./public/assets/icons/copy.png" class="button-icons"></button>
-            
-          </div>
-         
+          </div>  
         </div>
       </div>
     </main>
