@@ -1,8 +1,25 @@
-Descripción
-¡Bienvenidas y bienvenidos a nuestro primer desafío!
+# Título del Proyecto
+Text Encrypt
+Esta es una aplicación que encripta textos, así podrás intercambiar mensajes secretos con otras personas que sepan el secreto de la encriptación utilizada.
 
-Durante estas cuatro semanas, vamos a trabajar en una aplicación que encripta textos, así podrás intercambiar mensajes secretos con otras personas que sepan el secreto de la encriptación utilizada.
+## Comenzando 🚀
+Abrir el archivo index.html con un navegador
 
+## Pre-requisitos 📋
+Navegador
+
+## Instalación 🔧
+No es necesaria, se puede acceder desde GitHub Pages en el siguiente enlace https://fernandofcsp.github.io/Text-Encryption/
+
+## Construido con 🛠️
+*HTML
+*CSS
+*JAVASCRIPT
+
+## Autor ✒️
+* **Fernando Sandoval** - *Codificación* - [villanuevand](https://github.com/fernandofcsp)
+
+## Descripción del proyecto 📖
 Las "llaves" de encriptación que utilizaremos son las siguientes:
 
 La letra "e" es convertida para "enter"
